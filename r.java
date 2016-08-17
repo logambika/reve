@@ -3,7 +3,7 @@ class rev
 {
 public static void main(String args[])
 {
-int n=120;
+int n=125;
 int r=0;
 while(n!=0)
 {
